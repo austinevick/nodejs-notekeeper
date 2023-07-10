@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id": 3,
+            "department": "Design",
+            "job_name": {
+                "Graphic Designer": {}
+            },
+            "job_type": "Full time",
+            "no_of_candidates": "10",
+            "days_ago": "5 days ago"
+        },
+        {
+            "id": 3,
+            "department": "Engineering",
+            "job_name": "Frontend Developer",
+            "job_type": "Contract",
+            "no_of_candidates": "10",
+            "days_ago": "5 days ago"
+        }
+    ]
+}
